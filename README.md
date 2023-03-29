@@ -5,6 +5,4 @@ of linear equation by minimizing the cost function $J$
 
 $$J = \|A x - y \|_2^2 + \lambda \|x \|_1$$
 
-via ISTA, FISTA and IRLS. The solution $x$ is sparse. 
-
-[PDF Document](https://github.com/msacchi/ISTA-FISTA-and-IRLS/blob/main/notes_ista.pdf)
+via ISTA, FISTA and IRLS, see [PDF Document](https://github.com/msacchi/ISTA-FISTA-and-IRLS/blob/main/notes_ista.pdf).
