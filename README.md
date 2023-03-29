@@ -9,5 +9,5 @@ which translates into minimizing the following cost function
 
 $$J = \|A x - y \|_2^2 + \lambda \|x \|_1$$
 
-The notebook shows how to minimize J via ISTA, FISTA and IRLS, see [PDF Document](https://github.com/msacchi/ISTA-FISTA-and-IRLS/blob/main/notes_ista.pdf) for a more complete description of the problem. 
+The notebook shows how to minimize J via ISTA, FISTA and IRLS, see the [PDF Document](https://github.com/msacchi/ISTA-FISTA-and-IRLS/blob/main/notes_ista.pdf) for a more detailed description of the problem. 
 
