@@ -3,4 +3,4 @@
 Tests of algorithms for sparse inversion for GEOPH-531 (Inverse Problems)
 
 
-[my link](file:///C:/my_file.pdf)
+[Document](https://github.com/msacchi/ISTA-FISTA-and-IRLS/blob/main/notes_ista.pdf)
