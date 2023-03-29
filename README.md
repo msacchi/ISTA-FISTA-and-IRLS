@@ -1,4 +1,4 @@
-# ISTA FISTA and IRLS 
+# ISTA, FISTA and IRLS 
 
 A repository of algorithms for sparse inversion for GEOPH-531 (Geophysical Inverse Problems). The idea is to obtain the sparse solution to the
 problem 
