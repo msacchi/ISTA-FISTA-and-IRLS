@@ -1,8 +1,13 @@
 # ISTA FISTA and IRLS 
 
-Algorithms for sparse inversion for GEOPH-531 (Geophysical Inverse Problems). We obtain the sparse solution to a system
-of linear equation by minimizing the cost function $J$
+A repository of algorithms for sparse inversion for GEOPH-531 (Geophysical Inverse Problems). The idea is to obtain the sparse solution to the
+problem 
+
+$$A x - y \approx 0$$ 
+
+which translates into minimizing the following cost function 
 
 $$J = \|A x - y \|_2^2 + \lambda \|x \|_1$$
 
-via ISTA, FISTA and IRLS, see [PDF Document](https://github.com/msacchi/ISTA-FISTA-and-IRLS/blob/main/notes_ista.pdf).
+The notebook shows how to minimize J via ISTA, FISTA and IRLS, see [PDF Document](https://github.com/msacchi/ISTA-FISTA-and-IRLS/blob/main/notes_ista.pdf) for a more complete description of the problem. 
+
